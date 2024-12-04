@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="titleInput" type="id" />
+    <item name="authorInput" type="id" />
+    <item name="pagesInput" type="id" />
+    <item name="addButton" type="id" />
+    <item name="booksListView" type="id" />
+</resources>
